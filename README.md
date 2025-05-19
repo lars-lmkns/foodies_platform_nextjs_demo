@@ -1,0 +1,1 @@
+# foodies_platform_nextjs_demo
